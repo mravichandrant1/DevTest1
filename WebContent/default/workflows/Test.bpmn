@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bpmn2:definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:bpmn2="http://www.omg.org/spec/BPMN/20100524/MODEL" xmlns:bpmndi="http://www.omg.org/spec/BPMN/20100524/DI" xmlns:dc="http://www.omg.org/spec/DD/20100524/DC" xmlns:di="http://www.omg.org/spec/DD/20100524/DI" xsi:schemaLocation="http://www.omg.org/spec/BPMN/20100524/MODEL BPMN20.xsd" id="_DG_mcEeqEeSULerY9xQIkQ" exporter="camunda modeler" exporterVersion="2.6.0" targetNamespace="http://activiti.org/bpmn">
+<bpmn2:process id="Process_1" isExecutable="false">
+<bpmn2:startEvent id="c866ba07-5ca1-47c0-90dc-f6ca6bdc5fc5" name="start">
+<bpmn2:outgoing>ce95a977-cd87-4ec3-8eb6-8e244c256754</bpmn2:outgoing>
+</bpmn2:startEvent>
+<bpmn2:endEvent id="25797aea-22ec-4705-aeff-06cbeebc391b" name="end">
+<bpmn2:incoming>b85d5db6-326c-49cd-9949-b470d798494f</bpmn2:incoming>
+</bpmn2:endEvent>
+</bpmn2:process>
+</bpmn2:definitions>
